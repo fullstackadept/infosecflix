@@ -36,6 +36,9 @@ THUMBS = {
     'securewv' : 'https://pbs.twimg.com/profile_images/737851153036283904/Bh6iVwvD_400x400.jpg'
 }
 
+#FANART="https://i.ytimg.com/vi/oFN1N5r5BOA/maxresdefault.jpg"
+FANART="https://i.imgur.com/qv3RMak.jpg"
+
 # Main conference/playlist config
 PLAYLISTS = {
     'Black Hat USA': [{
@@ -283,21 +286,19 @@ def main_menu():
         url = '{0}?action=listing&category={1}'.format(__url__, name)
         thumbnail = THUMBS[name.lower().replace(" ", "")]
         plugintools.add_item(
-            #action="",
             title=name,
             url=url,
             thumbnail=thumbnail,
-            fanart=thumbnail,
+            fanart=FANART,
             folder=True )
 
 def sub_menu(name):
     for item in get_sub_menu(name):
         plugintools.add_item(
-            #action="",
             title=item['title'],
             url="plugin://plugin.video.youtube/playlist/" + item['id'] + "/",
             thumbnail=item['thumbnail'],
-            fanart=item['thumbnail'],
+            fanart=FANART,
             folder=True )
 
 # Entry point
