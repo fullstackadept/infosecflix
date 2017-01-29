@@ -13,7 +13,7 @@
   </extension>
   <extension point="xbmc.addon.metadata">
     <summary lang="en">InfosecFlix: Hacker Presentations</summary>
-    <description lang="en">Talks and presentations from top security conferences around the US. Black Hat, DEF CON, DerbyCon, GrrCon, SchmooCon, ConVerge, BSides, and more.</description>
+    <description lang="en">Talks and presentations from top security conferences around the US. HOPE, Black Hat, DEF CON, DerbyCon, SchmooCon, BSides and more.</description>
     <platform>all</platform>
     <forum>n/a</forum>
     <website>n/a</website>

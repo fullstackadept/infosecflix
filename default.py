@@ -31,6 +31,7 @@ THUMBS = {
     'defcon' : 'https://pbs.twimg.com/profile_images/794271957818580992/QJ06URkq_400x400.jpg',
     'derbycon' : 'https://pbs.twimg.com/profile_images/1100903441/derbyconlogo-Twitter_400x400.jpg',
     'grrcon' : 'http://grrcon.com/wp-content/themes/grrcon/images/logo.png',
+    'hope' : 'https://i.imgur.com/qd4DWHi.png',
     'schmoocon' : 'https://pbs.twimg.com/profile_images/357342497/Shmoo_Eyes_400x400.jpg',
     'showmecon' : 'https://pbs.twimg.com/profile_images/789200425962450945/_I_Q0wy5_400x400.jpg',
     'securewv' : 'https://pbs.twimg.com/profile_images/737851153036283904/Bh6iVwvD_400x400.jpg'
@@ -245,6 +246,61 @@ PLAYLISTS = {
         'title' : 'GrrCon 2015',
         'id' : 'PLNhlcxQZJSm-lvGvO_MQ6x08wdwLdh4YJ',
         'thumbnail' : THUMBS['grrcon']
+    }],
+    'HOPE': [{
+        'title' : 'The Eleventh HOPE (2016)',
+        'id' : 'PLcajvRZA8E099SG5JGAaS56NMHPTbuHIV',
+        'thumbnail' : THUMBS['hope']
+        },
+        {
+        'title' : 'HOPE X (2014)',
+        'id' : 'PLcajvRZA8E0-UUHhjOBQuYADBypOPFt-a',
+        'thumbnail' : THUMBS['hope']
+        },
+        {
+        'title' : 'HOPE Number Nine (2012)',
+        'id' : 'PLcajvRZA8E09m2Z8r7CUDYcI3908SNkHU',
+        'thumbnail' : THUMBS['hope']
+        },
+        {
+        'title' : 'The Next HOPE (2010)',
+        'id' : 'PLcajvRZA8E0-OrQXj7nPbmfEpKVu7VvYs',
+        'thumbnail' : THUMBS['hope']
+        },
+        {
+        'title' : 'The Last HOPE (2008)',
+        'id' : 'PLcajvRZA8E0_8luB1SAMjMW5AZ_Uc1nTG',
+        'thumbnail' : THUMBS['hope']
+        },
+        {
+        'title' : 'HOPE Number Six (2006)',
+        'id' : 'PLcajvRZA8E08sBBGcHVz32idpxDNXn7nF',
+        'thumbnail' : THUMBS['hope']
+        },
+        {
+        'title' : 'The Fifth HOPE (2004)',
+        'id' : 'PLcajvRZA8E084v1rTdZYTKiEDoHAP5IPx',
+        'thumbnail' : THUMBS['hope']
+        },
+        {
+        'title' : 'H2K2 (2002)',
+        'id' : 'PLcajvRZA8E09HG98twwOf9rfYF6-FHORZ',
+        'thumbnail' : THUMBS['hope']
+        },
+        {
+        'title' : 'H2K (2000)',
+        'id' : 'PLcajvRZA8E09S7VRCK3XRzIRx9zNKGv5e',
+        'thumbnail' : THUMBS['hope']
+        },
+        {
+        'title' : 'Beyond HOPE (1997)',
+        'id' : 'PLcajvRZA8E0-4HW1K66VGge3JcUdAEJj5',
+        'thumbnail' : THUMBS['hope']
+        },
+        {
+        'title' : 'Hackers On Planet Earth (1994)',
+        'id' : 'PLcajvRZA8E0_ckfjqU1irYzOwbsYa2AjC',
+        'thumbnail' : THUMBS['hope']
     }],
     'SchmooCon': [{
         'title' : 'SchmooCon 2016',
