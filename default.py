@@ -43,6 +43,9 @@ PLAYLISTS = {
         'id' : 'PLH15HpR5qRsUtTv7IQKftKGOcRLGtwuoF'
     }],
     'BSides': [{
+        'title' : 'Bsides Tampa 2017',
+        'id' : 'PLNhlcxQZJSm988sgt1Gq9_SPWEqTkB4s8'
+        },{
         'title' : 'Bsides Augusta 2016',
         'id' : 'PLNhlcxQZJSm_4V8VDudQyBFp8b91rBHTj'
         },
